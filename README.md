@@ -48,7 +48,8 @@ To create a comprehensive report for the design of a specific application, such 
 - Offer accurate and timely assistance to patients. 
 - Provide a seamless, user-friendly interface. 
 - Ensure compliance with healthcare privacy standards, such as HIPAA. 
-- Minimize response time for common queries. ![Aspose Words 1ffaaf18-2d48-4edf-8abe-a9d5c5e38919 001](https://github.com/user-attachments/assets/97a2ebd9-fc57-45d8-90f0-feaa41003ac1)
+- Minimize response time for common queries. ![Aspose Words 1ffaaf18-2d48-4edf-8abe-a9d5c5e38919 001](https://github.com/user-attachments/assets/8c2ddab0-9786-476c-8fe5-647d053e346f)
+
 
 
 **Identify Prompt Patterns for Each Design Aspect**
